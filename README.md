@@ -60,7 +60,7 @@ The datasets were cleaned and combined to enable comprehensive sales analysis.
 ## File Structure
 - `Excel Dashboard Project.xlsx` – Main Excel dashboard file  
 - `Dashboard.png` – Preview image of the dashboard  
-- `Datasets Folrder` - Contains all the datasets used
+- `Datasets Folder` - Contains all the datasets used
 ---
 
 ## Dashboard Preview
